@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Enesduger/Enesduger/main/assets/masterhead.png)
+![MasterHead](https://raw.githubusercontent.com/Enesduger/Enesduger/main/masterhead.jpeg)
 
 <h1 align="center">Hi 👋, I'm Muhammed Duger</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
