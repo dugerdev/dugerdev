@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/dugerdev/dugerdev/blob/main/masterhead.jpeg?raw=true)
 
-<h1 align="center">Hi 👋, I'm Muhammed Duger</h1>
+
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dugerdev&label=Profile%20views&color=0e75b6&style=flat" alt="dugerdev" /> </p>
