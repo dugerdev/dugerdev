@@ -1,8 +1,15 @@
-# Hi, I'm Muhammed! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;.NET+%2B+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Muhammed%20Duger&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20.NET%20%2B%20React&descAlignY=55&descAlign=50" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammed;Welcome+to+my+GitHub!+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dugerdev&label=Profile%20views&color=667eea&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dugerdev?label=Followers&style=flat&color=764ba2" alt="GitHub followers" />
+</p>
 
 ---
 
@@ -33,14 +40,37 @@ Full Stack Developer based in İzmir 🇹🇷, specializing in **C#**, **.NET Co
 
 </div>
 
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Blog Project](https://github.com/dugerdev)** | Full-featured blog platform with admin panel | ASP.NET Core 9.0 MVC, EF Core, SQL Server, Identity |
+| **[CozaStore](https://github.com/dugerdev)** | E-commerce platform with JWT authentication | .NET Core 9.0 API, EF Core, JWT, Repository Pattern |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugerdev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugerdev&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-snake.svg">
+  </picture>
+</div>
+
+> 🎮 **Watch the snake eat my GitHub contributions!** This animation updates automatically every 12 hours.
 
 ---
 
