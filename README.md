@@ -49,17 +49,6 @@ Full Stack Developer based in İzmir 🇹🇷, specializing in **C#**, **.NET Co
 | **[Blog Project](https://github.com/dugerdev)** | Full-featured blog platform with admin panel | ASP.NET Core 9.0 MVC, EF Core, SQL Server, Identity |
 | **[CozaStore](https://github.com/dugerdev)** | E-commerce platform with JWT authentication | .NET Core 9.0 API, EF Core, JWT, Repository Pattern |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dugerdev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugerdev&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
