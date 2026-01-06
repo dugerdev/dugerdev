@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Full Stack Developer based in İzmir 🇹🇷, specializing in **C#**, **.NET Core**, and **React JS**. Passionate about building clean, scalable solutions.
+Full Stack Developer based in İzmir 🇹🇷, specializing in **C#**, **.NET Core** and **React JS**. Passionate about building clean, scalable solutions.
 
 ---
 
