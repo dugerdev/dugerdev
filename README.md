@@ -47,6 +47,8 @@ Full Stack Developer based in İzmir 🇹🇷, specializing in **C#**, **.NET Co
 |---------|-------------|------------|
 | **[Blog Project](https://github.com/dugerdev)** | Full-featured blog platform with admin panel | ASP.NET Core 9.0 MVC, EF Core, SQL Server, Identity |
 | **[CozaStore](https://github.com/dugerdev)** | E-commerce platform with JWT authentication | .NET Core 9.0 API, EF Core, JWT, Repository Pattern |
+| **[Travel Booking](https://github.com/dugerdev)** | Travel reservation platform built with | ASP.NET Core 9 and Clean Architecture| ASP.NET Core 9.0 MVC, EF Core, SQL Server, Identity |
+| **[Villa Agency](https://github.com/dugerdev)** | Villa Agency with Identıty authentication | .NET Core 9.0 API,Identıty Auth, EF Core, MVC Pattern |
 
 ### 🐍 Contribution Snake
 
