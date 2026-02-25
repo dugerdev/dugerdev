@@ -51,18 +51,6 @@ If you’re hiring or need a backend modernization/payment integration, message 
 | **[Travel Booking](https://github.com/dugerdev)** | Travel reservation platform built with | ASP.NET Core 9 and Clean Architecture| ASP.NET Core 9.0 MVC, EF Core, SQL Server, Identity |
 | **[Villa Agency](https://github.com/dugerdev)** | Villa Agency with Identıty authentication | .NET Core 9.0 API,Identıty Auth, EF Core, MVC Pattern |
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dugerdev/dugerdev/output/github-snake.svg">
-  </picture>
-</div>
-
-> 🎮 **Watch the snake eat my GitHub contributions!** This animation updates automatically every 12 hours.
-
 ---
 
 ### 🌐 Connect With Me
