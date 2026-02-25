@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Muhammed%20Duger&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20.NET%20%2B%20React&descAlignY=55&descAlign=50" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammed;Welcome+to+my+GitHub!+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dugerdev&label=Profile%20views&color=667eea&style=flat" alt="Profile views" />
 </p>
