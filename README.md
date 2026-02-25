@@ -10,8 +10,13 @@
 
 ### 👨‍💻 About Me
 
-Full Stack Developer based in İzmir 🇹🇷, specializing in **C#**, **.NET Core** and **React JS**. Passionate about building clean, scalable solutions.
+I build scalable .NET backends and APIs for products that must be reliable: payments, integrations, and high-traffic systems.
 
+My focus is clean architecture (N-Tier / Clean Architecture), resilience (Polly patterns), secure auth (JWT), and production-grade delivery (tests, docs, CI/CD).
+
+I’m open to remote/hybrid .NET Backend roles, and I also take select consulting projects where I can ship measurable business outcomes (speed, reliability, maintainability).
+
+If you’re hiring or need a backend modernization/payment integration, message me.
 ---
 
 ### 🛠️ Tech Stack
