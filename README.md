@@ -63,9 +63,4 @@ If you’re hiring or need a backend modernization/payment integration, message 
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dugerdev&style=flat-square&color=blue" alt="Profile views"/>
-</div>
 
